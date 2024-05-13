@@ -1,7 +1,7 @@
 //
 // Created by Brandon Do on 5/12/2024.
 //
-
+ 
 #ifndef POINT_H
 #define POINT_H
 
